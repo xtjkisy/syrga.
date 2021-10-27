@@ -2,6 +2,6 @@
 <head></head>
 <body>
 
-this is Syrga'sfirst web page
+this is Syrga's first web page
 </body>
 <html>
