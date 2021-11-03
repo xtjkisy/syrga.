@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-<h4>Happy New Year!</h4>
+<h1>Happy New Year!</h1>
 
   
 <img src=Syrga.jpg>  
