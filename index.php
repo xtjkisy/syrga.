@@ -2,10 +2,12 @@
 <head></head>
 <body>
 
-Happy New Year!
+  <h2>Happy New Year!</h2>
+
+<img src="HTML Images.html" alt="Flowers in Chania">  
+  
 </body>
 <html>
   
  
-  
-  <img src="HTML Images.html" alt="Flowers in Chania">
+
