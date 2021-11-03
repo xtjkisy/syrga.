@@ -16,7 +16,7 @@
     </label>
   </div>
 
-  <a href="https://www.github.com/">link Syrga</a>
+  <a href="https://www.github.com/">linkSyrga</a>
   
   <div class="container" style="background-color:#f1f1f1">
     <button type="button" class="cancelbtn">Cancel</button>
