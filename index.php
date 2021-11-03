@@ -40,8 +40,8 @@ button:hover {
   margin: 24px 0 12px 0;
 }
 
-img. {
-  width: 40%;
+img.avatar.jpg {
+  width: 50%;
   border-radius: 50%;
 }
 
