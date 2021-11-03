@@ -1,10 +1,10 @@
 <html>
 <head></head>
 <body>
-<h1>Happy New Year!</h1>
+<h1>ONE PIECE</h1>
 
   
-<img src=Syrga.jpg>  
+<img src=onepiece.jfif>  
   
 </body>
 <html>
