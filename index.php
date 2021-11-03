@@ -8,4 +8,4 @@ Happy New Year!
   
  
   
-  <img src="img_chania.jpg" alt="Flowers in Chania">
+  <img src="HTML Images" alt="Flowers in Chania">
