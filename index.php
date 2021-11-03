@@ -2,7 +2,7 @@
 <head></head>
 <body>
 
-<h2>Happy New Year!</h2>
+                                                             <h4>Happy New Year!</h4>
 
 <img src=Syrga.jpg>  
   
