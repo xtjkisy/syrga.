@@ -2,6 +2,6 @@
 <head></head>
 <body>
 
-this is Syrga's first web page
+Happy New Year!
 </body>
 <html>
