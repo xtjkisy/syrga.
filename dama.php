@@ -10,7 +10,7 @@
 
 
 
-<table width="100%" border="1">
+<table width="50%" border="1">
 
   <tr>
 
@@ -32,7 +32,7 @@
 
 
 
-<table width="100%" border="0" cellspacing="15">
+<table width="10%" border="0" cellspacing="15">
 
   <tr>
 
