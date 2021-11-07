@@ -17,10 +17,8 @@
 <table width="30%" border="0">
 
   <tr>
-
-    <td><img src="syrga.jpeg"></td>
     
-  <img src="syrga.jpeg"  width="50" height="80">
+  <img src="syrga.jpeg"  width="150" height="300">
  </body>
 </html>
 
