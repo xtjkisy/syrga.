@@ -16,7 +16,7 @@
     </label>
   </div>
 
-  <a href="syrga.php">linkSyrga</a>
+  <a href="dama.php">linkSyrga</a>
   
   <div class="container" style="background-color:#f1f1f1">
     <button type="button" class="cancelbtn">Cancel</button>
