@@ -8,6 +8,9 @@
 <title>Usupova Syrga Damirbekovna</title>
 
 </head>
+ 
+ <meta charset="utf-8" />
+
 
 <boby>
 
