@@ -2,7 +2,7 @@
 
 <head>
  
-<meta charset="utf-8" />
+
 
 
 <title>Usupova Syrga Damirbekovna</title>
@@ -18,7 +18,7 @@
   <tr>
 
     <td><img src="syrga.jpeg"></td>
-    
+    style="width:150px; " >
    
 <h1 style="font-size:10vw">My portfolio</h1>
   
