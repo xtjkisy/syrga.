@@ -17,13 +17,14 @@
 <table width="30%" border="0">
 
   <tr>
+   
+   <h1 style="font-size:10vw">My portfolio</h1>
     
-  <img src="syrga.jpeg"  width="150" height="300">
+  <img src="syrga.jpeg"  width="180" height="300">
  </body>
 </html>
 
-   
-<h1 style="font-size:10vw">My portfolio</h1>
+
   
 
    
