@@ -8,8 +8,6 @@
 <title>Usupova Syrga Damirbekovna</title>
 
 </head>
- 
- <meta charset="utf-8" />
 
 
 <boby>
@@ -21,7 +19,11 @@
   <tr>
 
     <td><img src="syrga.jpeg"></td>
-    style="width:150px; " >
+    
+  <img src="syrga.jpeg"  width="50" height="80">
+ </body>
+</html>
+
    
 <h1 style="font-size:10vw">My portfolio</h1>
   
