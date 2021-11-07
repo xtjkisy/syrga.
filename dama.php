@@ -15,6 +15,9 @@
   <tr>
 
     <td><img src="syrga.jpeg"></td>
+    
+    h1 {
+  font-size: 80px;
 
     <td><h1>My portfolio</h1>
 
