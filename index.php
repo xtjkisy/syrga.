@@ -1,6 +1,6 @@
 <form action="action_page.php" method="post">
   <div class="imgcontainer">
-    <img src="img_avatar2.png" alt="Avatar" class="avatar">
+    <img src="One-Piece.jpg" alt="just" class="one piece">
   </div>
 
   <div class="container">
