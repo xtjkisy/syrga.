@@ -1,19 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <tittle>Login Page</tittle>
-</head>
-<body bgcolor="purple">
+<html>
+<head></head>
+<body bgcolor="yellow">
+    <center><h1>Автобиография.</h1></center>
+Меня зовут Асанбаева Акылай Ырысбековна, я родилась в 2004 году в  Иссык-Кульской области в селе Теплоключенка.
 
-<form action="/form_login" method="post">
-<h2></h2>Username:<br>
-<input type="text" name='usernam'><br>
-Password:<br>
-<input name='password' ><br><br>
-<input type="submit" value="Login">
-</form>
-<h1 >{{info}}</h1>
-
+  
+<img src=onepiece.jfif>  
+  
 </body>
-</html>
+<html>
