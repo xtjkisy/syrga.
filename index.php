@@ -12,6 +12,7 @@
 Password:<br>
 <input name='password' ><br><br>
 <input type="submit" value="Login">
+      <a href="dama.php">
 </form>
 <h1 >{{info}}</h1>
 
