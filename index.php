@@ -10,9 +10,9 @@
    }
   </style> 
 <img src=akylai.jpeg  
- width="600" height="700" class="rightpic">
+ width="550" height="600" class="rightpic">
     <h1>Моя семья:</h1>
- <hr>
+ 
    <ul>
        <h2><li>Папа-Асанбаев Ырысбек</li></h2>
      <h2><li>Мама-Асаналиева Айгуль</li></h2>
@@ -21,7 +21,7 @@
      <h2><li>Сестра-Асанбаева Бегимай</li></h2>
      <h2><li>Я-Асанбаева Акылай</li></h2>
    </ul>
-   <hr>
+  
 
   
   
