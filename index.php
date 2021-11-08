@@ -10,7 +10,7 @@
    }
   </style> 
 <img src=akylai.jpeg  
- width="300" height="400" alt="Иллюстрация" align="left" vspace="5" hspace="5">>
+ width="300" height="400" alt="Иллюстрация" align="left" vspace="5" hspace="5">
     <h1>Моя семья:</h1>
  
    <ul>
