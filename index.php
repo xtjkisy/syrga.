@@ -1,27 +1,25 @@
-<form action="dama.php" style="border:1px solid #ccc">
-  <div class="container">
-    <h1>Sign Up</h1>
-    <p>Please fill in this form to create an account.</p>
-    <hr>
+<form action="action_page.php" method="post">
+  <div class="imgcontainer">
+    <img src="One-Piece.jpg" alt="just" class="one piece">
+  </div>
 
-    <label for="name"><b>Name</b></label>
-    <input type="text" placeholder="Enter Username" name="name" value="syrga.usupova" required>
+  <div class="container">
+    <label for="uname"><b>Username</b></label>
+    <input type="text" placeholder="Enter Username" name="uname" value="syrga.usupova" required>
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" value="12345678" required>
 
-   
-   
-
+    <button type="submit">Login</button>
     <label>
-      <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
+      <input type="checkbox" checked="checked" name="remember"> Remember me
     </label>
+  </div>
 
-    <p>By creating an account you agree to our <a href="#" style="color:dodgerblue">Terms & Privacy</a>.</p>
-
-    <div class="clearfix">
-      <button type="button" class="cancelbtn">Cancel</button>
-      <button type="submit" class="signupbtn">Log In</button>
-    </div>
+  <a href="dama.php"></a>
+  
+  <div class="container" style="background-color:#f1f1f1">
+    <button type="button" class="cancelbtn">Cancel</button>
+    <span class="psw">Forgot <a href="#">password?</a></span>
   </div>
 </form>
