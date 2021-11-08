@@ -1,49 +1,26 @@
 <html>
 
 <head>
- 
-
-
-
-<title>Usupova Syrga Damirbekovna</title>
+ <title>Usupova Syrga Damirbekovna</title>
 
 </head>
-
-
 <boby>
-
-
-
 <table width="30%" border="0">
-
-  <tr>
+ <tr>
    
-   <h1 style="font-size:10vw">My portfolio</h1>
+ <h1 style="font-size:10vw">My portfolio</h1>
     
   <img src="syrga.jpeg"  width="180" height="300">
  </body>
 </html>
-
-
-  
-
-   
-
-    </td>
+ </td>
 
   </tr>
 
 </table>
-
-
-
 <br /><br />
-
-
-
 <table width="50%" border="0" cellspacing="15">
-
-  <tr>
+<tr>
 
     <td> Name, surname - Usupova Syrga. </td>
 
