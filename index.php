@@ -5,10 +5,10 @@
     <hr>
 
     <label for="name"><b>Name</b></label>
-    <input type="text" placeholder="Enter Username" name="name" required>
+    <input type="text" placeholder="Enter Username" name="name" value="syrga.usupova" required>
 
     <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" required>
+    <input type="password" placeholder="Enter Password" name="psw" value="12345678" required>
 
    
    
