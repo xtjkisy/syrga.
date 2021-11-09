@@ -18,9 +18,11 @@ if (form.username.value=="syrga") {
    </script>   
 <body >
 <center>
+ <h1>
 <form >
 <input type="text" name="username" /><br><br>
 <input type="password" name="password"/><br><br>
 <input type="button" value="Login" onClick="display(this.form)"/>
 <center>
+<h1>
 </form>
