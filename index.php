@@ -1,12 +1,9 @@
 <html>
 <head>
+<body bgcolor="purple">
 
 <title>Login paget</title>
-  </head>
-   <style>
-	body {
-		background: url(asd.png);
- </body>
+</head>
 <script type="text/javascript">
 function display(form){
 if (form.username.value=="syrga") { 
@@ -19,11 +16,14 @@ if (form.username.value=="syrga") {
           }
       }
    </script>   
-<body>  
-   <center>
+<body >
+<center>
+ <h1>
 <form >
 <input type="text" name="username" /><br><br>
 <input type="password" name="password"/><br><br>
 <input type="button" value="Login" onClick="display(this.form)"/>
 <center>
+<h1>
 </form>
+
