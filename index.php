@@ -1,9 +1,22 @@
-<!DOCTYPE html> 
-<html> 
+<html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title> Login Page </title>
-<style> 
+<body bgcolor="purple">
+
+<title>Login paget</title>
+</head>
+<script type="text/javascript">
+function display(form){
+if (form.username.value=="syrga") { 
+  if (form.password.value=="123456") {              
+          location="dama.php" 
+           } else {
+             alert("Invalid Password")
+             }
+        } else {  alert("Invalid Username")
+          }
+      }
+   </script>   
+  <style> 
 Body {
   font-family: Calibri, Helvetica, sans-serif;
   background-color: pink;
@@ -43,20 +56,7 @@ button {
         background-color: lightblue;
     } 
 </style> 
-</head>  
- <script type="text/javascript">
-function display(form){
-if (form.username.value=="syrga") { 
-  if (form.password.value=="123456") {              
-          location="dama.php" 
-           } else {
-             alert("Invalid Password")
-             }
-        } else {  alert("Invalid Username")
-          }
-      }
-   </script>   
-<body>  
+  <body>  
     <center> <h1> Student Login Form </h1> </center> 
     <form>
         <div class="container"> 
@@ -72,5 +72,3 @@ if (form.username.value=="syrga") {
     </form>   
 </body>   
 </html>
-
- 
