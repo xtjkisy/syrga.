@@ -1,10 +1,10 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<body bgcolor="purple">
-
-<title>Login paget</title>
+    <meta charset="UTF-8">
+    <tittle>Login Page</tittle>
 </head>
-<script type="text/javascript">
+  <script type="text/javascript">
 function display(form){
 if (form.username.value=="syrga") { 
   if (form.password.value=="123456") {              
@@ -16,13 +16,17 @@ if (form.username.value=="syrga") {
           }
       }
    </script>   
-<body >
-<center>
- <h1>
-<form >
-<input type="text" name="username" /><br><br>
-<input type="password" name="password"/><br><br>
-<input type="button" value="Login" onClick="display(this.form)"/>
-<center>
-<h1>
+<body bgcolor="purple">
+
+<form action="/form_login" method="post">
+<h2></h2>Username:<br>
+<input type="text" name='username'><br>
+Password:<br>
+<input name='password' ><br><br>
+<input type="submit" value="Login">
 </form>
+<h1 >{{info}}</h1>
+
+</body>
+</html>
+
