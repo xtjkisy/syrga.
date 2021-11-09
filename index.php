@@ -5,7 +5,7 @@
   </head>
    <style>
 	body {
-		background: #000 url(asd.png);
+		background: url(asd.png);
  </body>
 <script type="text/javascript">
 function display(form){
