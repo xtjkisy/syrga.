@@ -19,7 +19,7 @@
    2015 i visited Turkey because there was a International festifal.</h1>
  <p><img src="turkey.jpeg" 
   width="200" height="300" 
-  alt="Иллюстрация" align="left" 
+  alt="Иллюстрация" align="right" 
   vspace="5" hspace="5">
   </p> 
  
