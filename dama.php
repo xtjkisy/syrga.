@@ -12,26 +12,21 @@
   
  <p><h2>I was born on September 13, 2004 in Bishkek.
   </h2></p>
-  
-  </p> 
-
-  <p><img src="photo5219760925941282320.jpg" 
-  width="600" height="500 align="bottom" 
-  alt="Иллюстрация" align="center" 
-  vspace="5" hspace="5">
-   </p>
  
   <p><h2>In 2011,I started going to a music school majoring in komuz,
 where I began to make good progress.
    After the next victory of our ensemble, we were sent to the annual festival, which was held in Turkey.
  </h2></p>
- <p><img src="photo5219760925941282320.jpg" 
+ <center><p><img src="photo5219760925941282320.jpg" 
   width="600" height="500 align="bottom" 
-  alt="Иллюстрация" align="center" 
+  alt="Иллюстрация" align="center" </center>
   vspace="5" hspace="5">
    </p>
  <p><h2>After arriving in Kyrgyzstan, I participated in the World Nomad Games.
  in 2017, I took first place among the komuzists of the Chui region</h2></p>
+ <p><img src="photo5226576394794941045.jpg"
+ widht="700" height="550"
+ alt="Иллюстация" </p>
  
   
  
