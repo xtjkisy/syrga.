@@ -18,7 +18,7 @@ where I began to make good progress.
    After the next victory of our ensemble, we were sent to the annual festival, which was held in Turkey.
  </h2></p>
  <center><p><img src="photo5219760925941282320.jpg" 
-  width="600" height="500 align="bottom" 
+  width="800" height="500 align="bottom" 
   alt="Иллюстрация" align="center"
   vspace="5" hspace="5"> </center>
    </p>
@@ -26,7 +26,7 @@ where I began to make good progress.
  in 2017, I took first place among the komuzists of the Chui region</h2></p>
  </h2></p>
  <center><p><img src="photo5226576394794941045.jpg" 
-  width="700" height="500 align="bottom" 
+  width="1000" height="700 align="bottom" 
   alt="Иллюстрация" align="center"
   vspace="5" hspace="5"> </center>
    </p>
