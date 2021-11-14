@@ -16,16 +16,18 @@
   alt="Иллюстрация" align="right" 
   vspace="5" hspace="5">
   </p> 
+  <p><img src="photo5219760925941282320.jpg" 
+  width="600" height="500 align="bottom" 
+  alt="Иллюстрация" align="center" 
+  vspace="5" hspace="5">
+   </p>
  
   <p><h1>In 2011, I started going to music school, 
    where I began to make good progress.
    After the next win of our ensemble, we were sent to the annual festival that took place in Turkey.
  </h1></p>
- <p><img src="photo5219760925941282320.jpg" 
-  width="600" height="500 align="bottom" 
-  alt="Иллюстрация" align="center" 
-  vspace="5" hspace="5">
-   </p>
+ 
+  
  
  </body>
 
