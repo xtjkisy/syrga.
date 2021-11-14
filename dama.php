@@ -1,6 +1,7 @@
 <html>
 
 <head>
+ <body bgcolor="beige">
  <title>Damirbekovna</title>
 </head>
 <body>
@@ -21,7 +22,7 @@
    After the next win of our ensemble, we were sent to the annual festival that took place in Turkey.
  </h1></p>
  <p><img src="photo5219760925941282320.jpg" 
-  width="600" height="500 align="top" 
+  width="600" height="500 align="bottom" 
   alt="Иллюстрация" align="center" 
   vspace="5" hspace="5">
    </p>
