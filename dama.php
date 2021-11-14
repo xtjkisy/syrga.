@@ -19,14 +19,15 @@ where I began to make good progress.
  </h2></p>
  <center><p><img src="photo5219760925941282320.jpg" 
   width="600" height="500 align="bottom" 
-  alt="Иллюстрация" align="center" </center>
-  vspace="5" hspace="5">
+  alt="Иллюстрация" align="center"
+  vspace="5" hspace="5"> </center>
    </p>
  <p><h2>After arriving in Kyrgyzstan, I participated in the World Nomad Games.
  in 2017, I took first place among the komuzists of the Chui region</h2></p>
  <p><img src="photo5226576394794941045.jpg"
- widht="700" height="550"
- alt="Иллюстация" </p>
+ widht="700" height="500"
+ alt="Иллюстация" aligin="top>
+ </p>
  
   
  
