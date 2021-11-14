@@ -25,8 +25,8 @@ where I began to make good progress.
  <p><h2>After arriving in Kyrgyzstan, I participated in the World Nomad Games.
  in 2017, I took first place among the komuzists of the Chui region</h2></p>
  <p><img src="photo5226576394794941045.jpg"
- widht="700" height="500"
- alt="Иллюстация" aligin="top>
+ widht="700" height="500 aligin="top"
+ alt="Иллюстация" aligin="center">
  </p>
  
   
