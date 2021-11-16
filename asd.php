@@ -2,7 +2,7 @@
 
 <head>
  <body bgcolor="beige">
- <title>Damirbekovna</title>
+ <title>Syrga</title>
 </head>
 <body>
 <table width="30%" border="0">
@@ -12,11 +12,12 @@
   
 
  
- <img style="float: right; width="300" height="400" alt="" src="photo5226576394794941045.jpg" />
+ <img style="float: right; width="300" height="400" align="top" alt="" src="photo5231182068615066947" />
 <div style="clear: right" >
   <h1>Name - Syrga
   <p> Number- 0700303234</p>
   <p> Place of residence- Housing estate Altyn Ordo </p>
+ <p>  <p>My instagram- <a href="https://www.instagram.com/damiirbekovas/"></a></p>
  </h1>
   
 </div>    
