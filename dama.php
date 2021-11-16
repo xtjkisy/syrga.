@@ -17,10 +17,11 @@
 where I began to make good progress.
    After the next victory of our ensemble, we were sent to the annual festival, which was held in Turkey.
  </h2></p>
- <center><p><img src="photo5219760925941282320.jpg" 
-  width="800" height="500 align="bottom" 
-  alt="Иллюстрация" align="center"
-  vspace="5" hspace="5"> </center>
+ <img style="float: right;" alt="" src="http://example.com/image.png" />
+<div style="clear: right">
+   ...text...
+</div>    
+
    </p>
  <p><h2>After arriving in Kyrgyzstan, I participated in the World Nomad Games.
  in 2017, I took first place among the komuzists of the Chui region</h2></p>
