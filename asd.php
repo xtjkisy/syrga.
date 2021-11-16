@@ -7,12 +7,12 @@
 <body>
 <table width="30%" border="0">
  <tr>
-   
-<center><h1> <style="font-size:10vw">Damiirbekova</h1></center>
+ <p style="font-style:italic">font-style:italic</p>  
+<center><h1> <style="font-size:10vw">My portfolio</h1></center>
   
 
  
- <img style="float: right; width="300" height="400" align="top" alt="" src="photo5231182068615066947" />
+ <img style="float: right; width="300" height="400" align="top" src="photo5231182068615066947" />
 <div style="clear: right" >
   <h1>Name - Syrga
   <p> Number- 0700303234</p>
