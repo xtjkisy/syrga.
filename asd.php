@@ -14,9 +14,10 @@
  
  <img style="float: right; width="300" height="400" alt="" src="photo5226576394794941045.jpg" />
 <div style="clear: right" >
-  <p> Name - Syrga</p>
+  <h1>Name - Syrga
   <p> Number- 0700303234</p>
   <p> Place of residence- Housing estate Altyn Ordo </p>
+ </h1>
   
 </div>    
     
