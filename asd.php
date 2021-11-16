@@ -17,10 +17,9 @@
  <p>Study: Ala-Too
   <p> Phone-Number: 0700303234</p>
   <p> Place of residence: Housing estate Altyn Ordo </p>
- <p> 
+ <p><a href=https://www.instagram.com/damiirbekovas/</a>
   
  </h1>
-a href="https://www.instagram.com/damiirbekovas/?hl=en" class="instagram-share-button" data-lang="ru"></a>
   
 </div>    
     
