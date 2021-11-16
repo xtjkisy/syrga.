@@ -20,7 +20,7 @@
  <p> 
   
  </h1>
- <p>"https://www.instagram.com/damiirbekovas/"</p>
+a href="https://twitter.com/share" class="twitter-share-button" data-lang="ru">Твитнуть</a>
   
 </div>    
     
