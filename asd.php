@@ -6,10 +6,9 @@
 </head>
 <body>
 <table width="30%" border="0">
- <tr>
- <p> style="font-style:italic">font-style:italic</p>  
+ <tr> 
 <center><h1> <style="font-size:10vw">My portfolio</h1></center>
-  <img style="float: right; width="300" height="400" align="top" src="photo5231182068615066948.jpg" />
+  <img style="float: right; width="300" height="400" align="top" src="photo5231182068615066948.jpg" class="rightimg" />
 <div style="clear: right" >
   <h1>Name: Syrga
  <p> Surname: Usupova </p>
