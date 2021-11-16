@@ -12,7 +12,7 @@
   
 
  
- <img style="float: right; width="300" height="400" align="top" src="photo5231182068615066947" />
+ <img style="float: right; width="300" height="400" align="top" src="photo5231182068615066948.jpg" />
 <div style="clear: right" >
   <h1>Name - Syrga
   <p> Number- 0700303234</p>
