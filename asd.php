@@ -1,7 +1,7 @@
 <html>
 
 <head>
- <body bgcolor="beige">
+ <body bgcolor="white">
  <title>Syrga</title>
 </head>
 <body>
@@ -17,7 +17,7 @@
   <h1>Name - Syrga
   <p> Number- 0700303234</p>
   <p> Place of residence- Housing estate Altyn Ordo </p>
- <p>  <p>My instagram- <a href="https://www.instagram.com/damiirbekovas/"></a></p>
+  <p><a href="https://www.instagram.com/damiirbekovas/"></a></p>
  </h1>
   
 </div>    
