@@ -1,10 +1,28 @@
-<html>
-<head></head>
-<body>
-<h1>ONE PIECE</h1>
-
-  
-<img src=onepiece.jfif>  
-  
-</body>
-<html>
+<html> 
+<head> 
+<body bgcolor="red"> 
+ 
+<title>Login paget</title> 
+</head> 
+<script type="text/javascript"> 
+function display(form){ 
+if (form.username.value=="syrga") {  
+  if (form.password.value=="123456") {               
+          location="asd.php"  
+           } else { 
+             alert("Invalid Password") 
+             } 
+        } else {  alert("Invalid Username") 
+          } 
+      } 
+   </script>    
+<body > 
+<center> 
+ <h1> 
+<form > 
+<input type="text" name="username" /><br><br> 
+<input type="password" name="password"/><br><br> 
+<input type="button" value="Login" onClick="display(this.form)"/> 
+<center> 
+<h1> 
+</form> 
