@@ -1,40 +1,47 @@
-print("Welcome to Syrga's quiz!")
-playing = input("Do you want to play? ")
+1.  name = input("Aidin ")
+print("Hello", name + "!")
 
-if playing.lower() !="yes":
-    quit()
 
-print("Okay! Let's play :)")
-score = 0
+2.   number = int(input(" Enter number: "))
+if number%3==0 and number%4==0:     
+    print (str(number),"is divisible by 3 and 4") 
+if number%3==0 :     
+    print (str(number),"is divisible by 3 ") 
+if number%4==0:     
+    print (str(number),"is divisible by 4") 
+if number%4!=0 and number%3!=0:     
+    print ("NOt divisible by 3 or 4")
 
-answer = input("How many letters are there in the Russian alphabet? ")
-if answer == "33":
-    print('Correct!')
-    score += 1
-else:
-    print("Incorrect!")
 
-answer = input("How many continents are there in the world? ")
-if answer == "6":
-    print("Correct!")
-    score += 1
-else:
-    print("Incorrect!")
 
-answer = input("What does Luffy want to find? ")
-if answer.lower() == "one piece":
-    print("Correct!")
-    score += 1
-else:
-    print("Incorrect!")
+3.   def Series(n):
+ sums = 0
+ for i in range(1, n + 1):
+  sums += (i * i);
+ return sums
+ 
+n = int(input('input your number:'))
+res = Series(n)
+print(res)
 
-answer = input("The capital of Great Britain? ")
-if answer.lower() == "london":
-    print("Correct!")
-    score += 1
-else:
-    print("Incorrect!")
 
-print("You got " + str(score) + " questions correct!")
-print("You got " + str((score/4) * 100) + " %")
-         
+
+4.  number = int(input("Enter: "))
+
+
+sum_of_digits = 0
+
+for digit in str(number):
+    sum_of_digits += int(digit)
+
+
+print(sum_of_digits)
+
+
+
+
+
+5.   change = str(input("Enter any text to capitalize: "))
+h = change.title()
+
+print(h)
