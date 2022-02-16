@@ -1,0 +1,57 @@
+body{
+    width:100%;
+    max-width: 1600px;
+    margin: 0 auto;
+    background: url(https://images4.alphacoders.com/110/thumb-1920-1107815.jpg) no-repeat;
+    background-size: cover;
+    
+}
+.za {
+    color: gold;
+    font-family: 'Lobster', cursive;
+    font-size: 90px;
+    
+
+}
+h1,h2,h3,h4,h5,h6 {
+    margin:0%
+}
+ul,li{
+    display: block; 
+
+}
+li:hover {
+    background-color: grey;
+}
+
+
+header a {
+    color: gold;
+}
+.menu{
+    display: flex;
+    font-family: 'Rowdies', cursive;
+}
+.menu li a {
+    color: gold;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 25px;
+}
+.menu li{
+    margin-left: 60px;
+}
+.back {
+    display: flex;
+    align-items: center;
+}
+/* .rek{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Rowdies', cursive;
+    font-size: 45px;
+    color: gold;
+}
+.rek2{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Rowdies', cursive;
+} */
