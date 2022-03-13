@@ -5,37 +5,42 @@ const music = new Audio('vande.mp3');
 const songs = [
     {
         id:'1',
-        songName:` On My Way <br>
-        <div class="subtitle">Alan Walker</div>`,
+        songName:` As if it's your last <br>
+        <div class="subtitle">BlackPink</div>`,
         poster: "img/1.jpg"
     },
     {
         id:'2',
-        songName:` Alan Walker-Fade <br>
-        <div class="subtitle">Alan Walker</div>`,
+        songName:` Boombayah <br>
+        <div class="subtitle">BlackPink</div>`,
         poster: "img/2.jpg"
     },
    
     {
         id:"3",
-        songName: `Cartoon - On & On <br><div class="subtitle"> Daniel Levi</div>`,
+        songName: `Crazy Over You <br>
+        <div class="subtitle"> BlackPink</div>`,
         poster: "img/3.jpg",
     },
     {
         id:"4",
-        songName: `Warriyo - Mortals <br><div class="subtitle">Mortals</div>`,
+        songName: `Ddu Du Ddu Du <br>
+        <div class="subtitle">BlackPink</div>`,
         poster: "img/4.jpg",
     },
     {
         id:"5",
-        songName: `Ertugrul Gazi <br><div class="subtitle">Ertugrul</div>`,
+        songName: `Don't know what to do <br>
+        <div class="subtitle">BlackPink</div>`,
         poster: "img/5.jpg",
     },
     {
         id:"6",
-        songName: `Electronic Music <br><div class="subtitle">Electro</div>`,
+        songName: `Forever Young <br>
+        <div class="subtitle">BlackPink</div>`,
         poster: "img/6.jpg",
     },
+    
     {
         id:"7",
         songName: `Agar Tum Sath Ho <br><div class="subtitle">Tamashaa</div>`,
@@ -82,6 +87,15 @@ const songs = [
         poster: "img/15.jpg",
     },
 ]
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    document.getElementById("navbar").style.top = "0";
+  } else {
+    document.getElementById("navbar").style.top = "-50px";
+  }
+}
 
 Array.from(document.getElementsByClassName('songItem')).forEach((element, i)=>{
     element.getElementsByTagName('img')[0].src = songs[i].poster;
