@@ -40,44 +40,68 @@ const songs = [
         <div class="subtitle">BlackPink</div>`,
         poster: "img/6.jpg",
     },
-    
     {
         id:"7",
-        songName: `Agar Tum Sath Ho <br><div class="subtitle">Tamashaa</div>`,
-        poster: "img/7.jpg",
+        songName: `How You Like That <br>
+        <div class="subtitle">BlackPink</div>`,
+        poster: "img/6.jpg",
     },
     {
         id:"8",
-        songName: `Suna Hai <br><div class="subtitle">Neha Kakker</div>`,
-        poster: "img/8.jpg",
+        songName: `Kill This Love <br>
+        <div class="subtitle">BlackPink</div>`,
+        poster: "img/6.jpg",
     },
     {
         id:"9",
-        songName: `Dilber <br><div class="subtitle">Satyameva Jayate</div>`,
-        poster: "img/9.jpg",
+        songName: `Lovesick Girls <br>
+        <div class="subtitle">BlackPink</div>`,
+        poster: "img/6.jpg",
     },
     {
         id:"10",
-        songName: `Duniya <br><div class="subtitle">Luka Chuppi</div>`,
+        songName: `Playing With Fire <br>
+        <div class="subtitle">BlackPink</div>`,
+        poster: "img/6.jpg",
+    },
+    
+    {
+        id:"11",
+        songName: `Pretty Savage <br><div class="subtitle">BlackPink</div>`,
+        poster: "img/7.jpg",
+    },
+    {
+        id:"12",
+        songName: `See you later <br><div class="subtitle">BlackPink</div>`,
+        poster: "img/8.jpg",
+    },
+    {
+        id:"13",
+        songName: `Whistle <br><div class="subtitle">BlackPink</div>`,
+        poster: "img/9.jpg",
+    },
+    {
+        id:"14",
+        songName: `Love To Hate Me  <br><div class="subtitle">BlackPink</div>`,
         poster: "img/10.jpg",
     },
     {
-        id:"11",
+        id:"15",
         songName: `Lagdi Lahore Di <br><div class="subtitle">Street Dancer 3D</div>`,
         poster: "img/11.jpg",
     },
     {
-        id:"12",
+        id:"15",
         songName: `Putt Jatt Da <br><div class="subtitle">Putt Jatt Da</div>`,
         poster: "img/12.jpg",
     },
     {
-        id:"13",
+        id:"15",
         songName: `Baarishein <br><div class="subtitle">Atif Aslam</div>`,
         poster: "img/13.jpg",
     },
     {
-        id:"14",
+        id:"15",
         songName: `Vaaste <br><div class="subtitle">Dhvani Bhanushali</div>`,
         poster: "img/14.jpg",
     },
@@ -87,6 +111,16 @@ const songs = [
         poster: "img/15.jpg",
     },
 ]
+function changePage()
+{
+
+window.location.href= "index2.html";
+
+}
+function getPaging(str)
+{
+    $("#loading-content").load("dataSearch.php?"+str, hideLoader);
+}
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
