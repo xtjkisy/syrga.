@@ -34,17 +34,41 @@ header .menu_side, .song_side {
     box-shadow: 5px 0px 2px #090f1f;
     color: #fff;
 }
-
+#scroll {
+    height : 400px;
+    
+    overflow: auto;
+   }
+   ::-webkit-scrollbar {
+    width: 5px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 1 1 1px grey; 
+    border-radius: 10px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(12, 9, 20); 
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #070511; 
+  }
 header .song_side {
     width: 75%;
-    background: #9e017c;
+    background: #1e1a3d;
 }
 
 header .master_play {
     width: 100%;
     height: 10%;
-    background: #9e017c;
-    box-shadow: 0px 3px 8px #9e017c;
+    background: #190f2e;
+    box-shadow: 0px 3px 8px #18122e;
 }
 
 header .menu_side h1 {
@@ -442,8 +466,9 @@ header .master_play .vol input{
  }
  
  header .song_side .content h1{
-    font-size: 25px;
+    font-size: 40px;
     font-weight: 600;
+    color: rgb(248, 158, 173);
  }
  header .song_side .content p{
     font-size: 11px;
@@ -461,7 +486,7 @@ header .master_play .vol input{
     outline: none;
     border-radius: 20px;
     background: #5adae0;
-    color: #fff;
+    color: rgb(255, 0, 119);
     cursor: pointer;
     transition: .3s linear;
  }
