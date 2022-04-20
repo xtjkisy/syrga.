@@ -1,9 +1,12 @@
+@media screen and (max-width: 1280px) { div.contentblock {width: 1200px;} } 
+@media screen and (max-width: 1140px) { div.contentblock {width: 1024px;} } 
+@media screen and (max-width: 992px) { div.contentblock {width: 970px;} } 
 html {
     height: 100%;
  }
 
 body{
-    background-color: aliceblue;
+    background-color: white;
     display: flex;
     justify-content: right;
     align-items: center;
@@ -17,6 +20,7 @@ body{
      display: flex;
  }
 .back{
+    display: flex;
     margin-left: 0px;
     margin-top: 0px;
 }
@@ -26,16 +30,97 @@ body{
 }
 .mua{
     color: #292E5B;
-    margin-left: -680px;
-    margin-top: 0px;
-    padding: 200px;
+    margin-left: -600px;
+    margin-top: 200px;
+    padding: 100px;
     text-align: center;
     flex-direction: row;
-    font-family: 'Montserrat';
+    font-family: 'Times New Roman';
     font-style: normal;
     font-weight: 700;
     font-size: 32px;
     line-height: 60px;
     letter-spacing: 0.1em;
     
+}
+form{
+    border: 1px solid #CACACA;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+input[type=text] { 
+    width: 374px;
+    height: 77px;
+    background: #FFFFFF;
+    box-sizing: border-box;
+    padding: 15px;
+    border-radius: 12px;
+    margin-top: 500px;
+    margin-left: -950px;
+}  
+input[type=password] {
+    width: 374px;
+    height: 77px;
+    align-items: center;
+    background: #FFFFFF;
+    box-sizing: border-box;
+    padding: 15px;
+    border-radius: 12px;
+    margin-top: 12px;
+    margin-left: -950px;
+}
+button[type=submit]{
+    width: 270px;
+    height: 61px;
+    background: #292E5B;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 50px;
+    margin-left: -750px;
+
+}
+::placeholder{
+    width: 111px;
+    height: 24px;
+    left: 806px;
+    top: 552px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #8C8C8C;
+
+}
+a{
+    margin-left: -700px;
+    width: 139px;
+    height: 20px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    text-decoration-line: underline;
+
+    color: #838383;
+}
+button[type=submit]{
+    margin-top: 10px;
+    margin-left: -900px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+
 }
