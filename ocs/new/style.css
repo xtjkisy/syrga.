@@ -7,17 +7,22 @@ body {
     background-image: url(syrga.png);
     background-repeat: no-repeat;
     background-size: cover;
+    background-size: 100%;
+    height: 100vh;
+    background-color: #FFFFFF;
 }
 
 .container {
     display: flex;
     flex-direction: row;
     margin: auto;
+    margin: 0px;
 }
 
 .back {
-    flex-grow: 10;
+    flex-grow: 20;
     display: flex;
+    flex-direction: column;
     overflow: hidden;
     background: rgba(29, 31, 67, 0.8);
     background-repeat: no-repeat;
@@ -30,14 +35,28 @@ body {
 .logo {
     display: flex;
     justify-content: center;
-    margin-top: 320px;
-    margin-left: 160px;
-    width: 271px;
+    
     height: 268px;
+    margin-top: 300px;
+    margin-left: 0px;
+    padding: 0%;
+    
 }
-
+.gate{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 35px;
+    text-align: center;
+    height: 45px;
+    color: #FFFFFF;
+    margin-top: 35px;
+    justify-content: space-between;
+   
+}
 .right-login {
-    flex-grow: 90;
+    flex-grow: 80;
     width: 1024px;
     height: 400px;
 }
@@ -49,7 +68,7 @@ body {
     opacity: 0.8;
     border-radius: 15px;
     margin-top: 278px;
-    margin-left: 450px;
+    margin-left: 350px;
 }
 
 h3 {
@@ -57,7 +76,7 @@ h3 {
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 700;
-    font-size: 26px;
+    font-size: 24.5px;
     line-height: 32px;
     width: 211px;
     height: 32px;
@@ -90,7 +109,7 @@ input {
 a {
     width: 55px;
     height: 22px;
-    margin-left: 300px;
+    margin-left: 270px;
     margin-top: 145px;
     font-family: 'Montserrat';
     font-style: normal;
@@ -136,10 +155,7 @@ button[type=submit] {
     
 }
 @media only screen and (max-width: 900px) {
-    .back {
+    .back{
         display: none;
-    }
-    .right-login {
-        font-size: 20px;
     }
 }
