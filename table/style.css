@@ -12,7 +12,7 @@
 .nav{
     flex-grow: 10;
     width: auto;
-    height: auto;
+    height: 83px;
     background: #FFFFFF
 ;
     box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.13);
@@ -81,31 +81,39 @@ h3{
 }
 
 .chat{
+    display: flex;
+    overflow: hidden;
     margin-top: 32px;
     width: 29px;
     height: 23px;
-    margin-left: px;
+    margin-left: 993px;
     
 }
 .chat1{
     width: 15px;
     height: 15px;
-    margin-top: 25px;
-    margin-left: px;
-    z-index: 10;
+    margin-top: 24px;
+    margin-left: 985px;
+    display: flex;
+    position: fixed;
+    
     
 }
-.chat2{
-    
+
+p{
+    display: flex;
+    position: fixed;
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 600;
     font-size: 12px;
     line-height: 15px;
-    color: #1D1F43
-;
+    color: #1D1F43;
     width: 7px;
     height: 15px;
+    margin-top: 24px;
+    margin-left: 989px;
+    z-index: 10;
 }
 .main{
     width: 1730px;
