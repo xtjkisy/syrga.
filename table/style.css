@@ -1,0 +1,378 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.container{
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    
+}
+.nav{
+    flex-grow: 10;
+    width: auto;
+    height: auto;
+    background: #FFFFFF
+;
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.13);
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+}
+.rectangle{
+    width: 39px;
+    height: 39px;
+    background: #FFFFFF
+;
+    border: 2px solid #1D1F43
+;
+    box-sizing: border-box;
+    border-radius: 8px;
+    margin-top: 21px;
+    margin-left: 100px;
+}
+.r1{
+    background: #1D1F43
+;
+    border-radius: 6px;
+    width: 14px;
+    height: 2px;
+    margin-top: 12px;
+    margin-left: 10px;
+}
+.r2{
+    background: #1D1F43
+;
+    border-radius: 6px;
+    width: 14px;
+    height: 2px;
+    margin-top: 3.25px;
+    margin-left: 10px;
+}
+.r3{
+    background: #1D1F43
+;
+    border-radius: 6px;
+    width: 14px;
+    height: 2px;
+    margin-top: 3.50px;
+    margin-left: 10px;
+}
+.img{
+    width: 35px;
+    height: 35px;
+    margin-left: 30px;
+    margin-top: 23px;
+}
+h3{
+    flex-direction: row;
+    width: 99px;
+    height: 18px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 950;
+    font-size: 20px;
+    line-height: 19px;
+    margin-left: 24px;
+    margin-top: 32px;
+    color: #000000
+;
+}
+
+.chat{
+    margin-top: 32px;
+    width: 29px;
+    height: 23px;
+    margin-left: px;
+    
+}
+.chat1{
+    width: 15px;
+    height: 15px;
+    margin-top: 25px;
+    margin-left: px;
+    z-index: 10;
+    
+}
+.chat2{
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    color: #1D1F43
+;
+    width: 7px;
+    height: 15px;
+}
+.main{
+    width: 1730px;
+    height: 941;
+    flex-grow: 90;
+    display: flex;
+    
+
+}
+.time-teble{
+    display: flex;
+    background: #637B92;
+    overflow: hidden;
+    border-radius: 8px;
+    width: 758px;
+    height: 412px;
+    margin-top: 218px;
+    margin-left: 86px;
+}
+.week{
+    display: flex;
+    overflow: hidden;
+    flex-direction: row;
+    position: fixed;
+}
+h5{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+
+    color: #FFFFFF;
+    width: 86px;
+    height: 27px;
+    margin-top: 22px;
+    margin-left: 37px;
+}
+.w1{
+    background: #FFFFFF;
+    border: 1px solid #637B92;
+    box-sizing: border-box;
+    border-radius: 8px;
+    width: 152px;
+    height: 75px;
+    margin-left: 27px;
+    margin-top: 0px;
+}
+.w2{
+    background: #FFFFFF;
+    border: 1px solid #637B92;
+    box-sizing: border-box;
+    border-radius: 8px;
+    width: 152px;
+    height: 75px;
+    margin-left: 1px;
+}
+.w3{
+    background: #FFFFFF;
+    border: 1px solid #637B92;
+    box-sizing: border-box;
+    border-radius: 8px;
+    width: 152px;
+    height: 75px;
+    margin-left: 1px;
+}
+.w4{
+    background: #FFFFFF;
+    border: 1px solid #637B92;
+    box-sizing: border-box;
+    border-radius: 8px;
+    width: 152px;
+    height: 75px;
+    margin-left: 1px;
+}
+
+h2{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+
+    color: #637B92;
+    width: 87px;
+    height: 27px;
+    margin-top: 21px;
+    margin-left: 36px;
+}
+.one{
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 44px;
+    height: 43px;
+    margin-top: 81px;
+    margin-left: 87px;
+}
+.two{
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 44px;
+    height: 43px;
+    margin-top: 8px;
+    margin-left: 87px;
+}
+.three{
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 44px;
+    height: 43px;
+    margin-top: 8px;
+    margin-left: 87px;
+}
+.four{
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 44px;
+    height: 43px;
+    margin-top: 8px;
+    margin-left: 87px;
+}
+.five{
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 44px;
+    height: 43px;
+    margin-top: 7px;
+    margin-left: 87px;
+    }
+.six{
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 44px;
+    height: 44px;
+    margin-top: 8px;
+    margin-left: 87px;
+}
+h4{
+    margin-left: 19px;
+    margin-top: 12px;
+    width: 11px;
+    height: 20px;
+}
+.lesson{
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+.lesson1{
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 135px;
+    height: 44px;
+    margin-top: 81px;
+    margin-left: 9px;
+}
+.lesson2{
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 135px;
+    height: 44px;
+    margin-top: 10px;
+    margin-left: 9px;
+}
+.lesson3{
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 135px;
+    height: 44px;
+    margin-top: 11px;
+    margin-left: 9px;
+}
+.lesson4{
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 135px;
+    height: 44px;
+    margin-top: 9px;
+    margin-left: 9px;
+}
+.lesson5{
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 135px;
+    height: 44px;
+    margin-top: 12px;
+    margin-left: 9px;
+}
+.lesson6{
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 135px;
+    height: 44px;
+    margin-top: 13px;
+    margin-left: 9px;
+}
+h3{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    text-align: center;
+
+    color: #2E3740;
+    width: 103px;
+    height: 19px;
+    margin-top: 12px;
+    margin-left: 19px;
+}
+.box{
+    display: flex;
+    overflow: hidden;
+    flex-direction: column;
+}
+.box1{
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 342px;
+    height: 44px;
+    margin-top: 81px;
+    margin-left: 9px;
+}
+.box2{
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 342px;
+    height: 44px;
+    margin-top: 10px;
+    margin-left: 9px;
+}
+
+.box3{
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 342px;
+    height: 44px;
+    margin-top: 11px;
+    margin-left: 9px;
+}
+
+.box4{
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 342px;
+    height: 44px;
+    margin-top: 10px;
+    margin-left: 9px;
+}
+
+.box5{
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 342px;
+    height: 44px;
+    margin-top: 11px;
+    margin-left: 9px;
+}
+
+.box6{
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 342px;
+    height: 44px;
+    margin-top: 12px;
+    margin-left: 9px;
+}
+
+
+
