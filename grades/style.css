@@ -318,6 +318,11 @@ h5{
     margin-left: 9px;
     color: #000000;
 }
+.subject{
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
 .subject1{
     display: flex;
     overflow: hidden;
@@ -1444,4 +1449,51 @@ span{
 .s156 h6{
     margin-left: 25px;
     margin-top: 7px;
+}
+.box{
+    border: 1px solid #C4C4C4;
+    box-sizing: border-box;
+    border-radius: 6px;
+    width: 265px;
+    height: 172px;
+    margin-left: 805px;
+    margin-top: -568px;
+}
+
+.blue{
+    background: rgba(35, 43, 116, 0.84);
+    width: 265px;
+    height: 38px;
+}
+.blue h1{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    white-space: nowrap;
+    color: #FFFFFF;
+    margin-left: 0px;
+    margin-top: 0px;
+    display: flex;
+    text-align: center;
+}
+.first h2{
+    width: 73px;
+    height: 16px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+
+color: #000000;
+}
+.lin{
+    border: 1px solid #C4C4C4;
+    transform: rotate(90deg);
+    width: 132px;
+    height: 0px;
+    margin-top: 50px;
+    margin-left: 60px;
 }
