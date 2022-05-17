@@ -1,3 +1,13 @@
 d@5BDyJ_hP+8Kkex
-
+(Syrga1309.)
 45.76.199.129
+
+<VirtualHost *:80>
+   ServerName 334181-cn62576.tmweb.ru
+   ServerAlias www.334181-cn62576.tmweb.ru
+   ServerAdmin webmaster@root
+   DocumentRoot /var/www/sam
+   ErrorLog ${APACHE_LOG_DIR}/error.log
+ Customlog $${APACHE_LOG_DIR}/access.log combined
+</VirtualHost>
+
