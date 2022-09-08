@@ -1,0 +1,123 @@
+body{
+    background: #F9F6F1;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+}
+h5{
+    width: 95px;
+    height: 17px;font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+    letter-spacing: 0.03em;
+
+    /* Black */
+
+    color: #212121;
+    margin-left: 405px;
+    margin-top: 61px;
+    flex-direction: row;
+}
+#row{
+    margin-left: 45px;
+}
+img{
+    margin-top: 67px;
+    margin-left: -10px;
+    width: 5px;
+    height: 5px;
+}
+.triangle{
+    margin-left: -10px;
+    width: 5px;
+    height: 5px;
+}
+.logo{
+    width: 6px;
+    height: 6px;
+    background: #D7B399;
+    transform: rotate(-45deg);
+    margin-top: 64px;
+    margin-left: 95px;
+}
+.logo2{
+    width: 6px;
+    height: 6px;
+    background: #D7B399;
+    transform: rotate(-45deg);
+    margin-top: 57.5px;
+}
+.logo3{
+    width: 6px;
+    height: 6px;
+    background: #D7B399;
+     transform: rotate(-45deg);
+     margin-top: 63.9px;
+}
+.logo4{
+    width: 6px;
+    height: 6px;
+    background: #D7B399;
+    transform: rotate(-45deg);
+    margin-left: -12px;
+    margin-top: 70px;
+}
+#big{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    margin-left: 65px;
+    margin-top: 56px;
+    /* Black */
+    margin-left: 20px;
+    color: #212121;
+    width: 141px;
+    height: 27px;
+}
+h1{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+    letter-spacing: 0.03em;
+
+    /* Black */
+
+    color: #212121;
+    width: 56px;
+    height: 17px;
+    margin-left: 90px;
+    margin-top: 61px;
+}
+#notbig{
+    margin-left: 35px;
+}
+.bag img{
+    width: 30px;
+    height: 26px;
+    margin-left: 101px;
+    margin-top: 55px;
+}
+#tri img{
+    width: 17px;
+    height: 17px;
+}
