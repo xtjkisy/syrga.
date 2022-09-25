@@ -21,7 +21,6 @@ h5{
     font-weight: 500;
     font-size: 14px;
     line-height: 17px;
-    /* identical to box height */
 
     letter-spacing: 0.03em;
 
@@ -36,7 +35,7 @@ h5{
     display: inline;
     margin-left: 45px;
 }
-img{
+.tri img{
     margin-top: 67px;
     margin-left: -10px;
     width: 5px;
@@ -99,7 +98,6 @@ h1{
     font-weight: 500;
     font-size: 14px;
     line-height: 17px;
-    /* identical to box height */
 
     letter-spacing: 0.03em;
 
@@ -140,7 +138,6 @@ h1{
     line-height: 15px;
     width: 8px;
     height: 15px;
-    /* identical to box height */
     text-align: center;
     letter-spacing: 0.03em;
     margin-left: 11px;
@@ -192,7 +189,6 @@ h3{
     line-height: 20px;
     width: 181px;
     height: 20px;
-    /* identical to box height */
     letter-spacing: 0.03em;
 
     color: #FFFFFF;
@@ -269,8 +265,6 @@ h8{
     font-weight: 700;
     font-size: 30px;
     line-height: 37px;
-
-    /* identical to box height */
     text-align: center;
     letter-spacing: 0.02em;
     margin-left: 665px;
@@ -285,8 +279,6 @@ h8{
     font-weight: 300;
     font-size: 21px;
     line-height: 26px;
-
-    /* identical to box height */
     text-align: center;
     margin-left: 762px;
     color: #FFFFFF;
@@ -346,12 +338,7 @@ h8{
     height: 171px;
     margin-left: 755px;
 }
-.complect{
-    background-image: url(foot.png);
-    background-repeat: no-repeat;
-    width: 277px;
-    height: 236px;
-}
+
 #dress{
     font-family: 'Montserrat';
     font-style: normal;
@@ -359,12 +346,59 @@ h8{
     font-size: 21px;
     line-height: 26px;
     margin-top: 186px;
-
-    /* identical to box height */
     letter-spacing: 0.03em;
 
     color: #000000;
     width: 93px;
     height: 26px;
     margin-left: 80px;
+}
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+.foot{
+    margin-left: 435px;
+    margin-top: 37px;
+    position: relative;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 26px;
+
+    letter-spacing: 0.03em;
+
+    color: #000000;
+}
+.foot1{
+    margin-left: 435px;
+    position: relative;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 26px;
+
+    letter-spacing: 0.03em;
+
+    color: #000000;
+}
+.new p{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    margin-left: 784px;
+    margin-top: 150px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+
+    /* Black */
+
+    color: #212121;
+    width: 351px;
+    height: 44px;
 }
