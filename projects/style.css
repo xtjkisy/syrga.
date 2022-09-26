@@ -295,7 +295,6 @@ h8{
     height: 250px;
 }
 .girl{
-    background: #F4F4F4;
     width: 960px;
     height: 250px;
 }
@@ -375,6 +374,7 @@ h8{
 .foot0{
     display: flex;
     flex-direction: row;
+    background-color: white;
     
 }
 .foot1{
@@ -445,4 +445,13 @@ h8{
 
     color: #212121;
     height: 44px;
+}
+.container2{
+    display: flex;
+    background-color: white;
+}
+.collection{
+    display: flex;
+    margin-top: 319px;
+    margin-left: -530px;
 }
