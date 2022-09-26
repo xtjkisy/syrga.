@@ -1,6 +1,4 @@
-body{
-    background: #F9F6F1;
-}
+
 *{
     margin: 0;
     padding: 0;
@@ -257,7 +255,7 @@ h8{
     width: 100%;
     height: 235px;
     background: #212121;
-    margin-top: 70px;
+    margin-top: 40px;
 }
 #in{
     font-family: 'Montserrat';
@@ -267,8 +265,8 @@ h8{
     line-height: 37px;
     text-align: center;
     letter-spacing: 0.02em;
-    margin-left: 665px;
-    margin-top: 80px;
+    margin-left: 615px;
+    margin-top: 40px;
     color: #FFFFFF;
     width: 690px;
     height: 37px;
@@ -297,6 +295,7 @@ h8{
 .girl{
     width: 960px;
     height: 250px;
+    background: #F4F4F4;
 }
 #boy{
     font-family: 'Montserrat';
@@ -315,7 +314,7 @@ h8{
     font-size: 24px;
     line-height: 29px;
     letter-spacing: 0.03em;
-    margin-left: 426px;
+    margin-left: 300px;
     color: #000000;
 
 
@@ -335,7 +334,8 @@ h8{
 .boy2 img{
     width: 190px;
     height: 171px;
-    margin-left: 755px;
+    margin-left: 730px;
+    margin-top: -43px;
 }
 
 #dress{
@@ -378,7 +378,7 @@ h8{
     
 }
 .foot1{
-    margin-left: 435px;
+    margin-left: 410px;
     position: relative;
     font-family: 'Montserrat';
     font-style: normal;
@@ -391,7 +391,7 @@ h8{
     color: #000000;
 }
 .foot2{
-    margin-top: 44px;
+    margin-top: 37px;
     position: relative;
     font-family: 'Montserrat';
     font-style: normal;
@@ -404,7 +404,7 @@ h8{
     color: #000000;
 }
 .foot3{
-    margin-top: 44px;
+    margin-top: 37px;
     position: relative;
     font-family: 'Montserrat';
     font-style: normal;
@@ -417,7 +417,7 @@ h8{
     color: #000000;
 }
 .foot4{
-    margin-top: 44px;
+    margin-top: 37px;
     position: relative;
     font-family: 'Montserrat';
     font-style: normal;
@@ -453,5 +453,55 @@ h8{
 .collection{
     display: flex;
     margin-top: 319px;
-    margin-left: -530px;
+    margin-left: -570px;
+    justify-content: center;
+}
+.text{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+
+    color: #000000;
+
+
+}
+.collect1{
+    margin-left: 20px;
+}
+.collect2{
+    margin-left: 20px;
+}
+.collect3{
+    margin-left: 20px;
+}
+.text2{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 60px;
+    /* Accent */
+    color: #D7B399;
+
+    width: 93px;
+    height: 17px;
+}
+.container3{
+    background: #212121;
+    width: 1920px;
+    height: 311px;
+}
+.logos{
+    background: #D7B399;
+    height: 10px;
+    width: 10px;
+    transform: rotate(-45deg);
+    margin-left: 420px;
+    margin-top: 8px;
 }
