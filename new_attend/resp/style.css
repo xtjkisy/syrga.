@@ -1,0 +1,43 @@
+.sect-1, .sect-2, .sect-3, .sect-8, .sect6-area2{
+    display: flex;
+}
+
+.sect-1{
+    align-items: center;
+    font-size: 12px;
+    justify-content: space-around;
+}
+.content{
+    padding: 2% 6% 0px 6%;
+}
+.inline-block{
+    display: inline-block;
+    margin-left: 45px;
+}
+.sect1 img{
+    width: 80%;
+}
+.sect-5{
+    width: 25%;
+    height: 279px;
+    display: flex;
+}
+.sect5-area1{
+    background-image: url(short.png);
+}
+.sect5-area1{
+    background-image: url(short.png);
+}
+@media  (max-width: 768px){
+    .sect-1{
+        flex-direction: column;
+        align-items: center;
+    }
+    .sect-1 > div{
+        margin-bottom: 10px;
+    }
+    .sect-1 div span:first-child{
+        margin-left: 0;
+    }
+    
+}
