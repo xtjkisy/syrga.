@@ -262,6 +262,61 @@
     text-align: center;
     margin-top: 100px;
 }
+.section-7{
+    background: #212121;
+    width: 100%;
+    height: 180px;
+    margin-top: 140px;
+    display: flex;
+    flex-direction: row;
+}
+.section7-area1{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 37px;
+    letter-spacing: 0.02em;
+    margin-top: 70px;
+    color: #FFFFFF;
+}
+input{
+    background: #F9F6F1;
+    width: 110%;
+    height: 35px;
+    margin-top: 67px;
+    margin-left: 10%;
+}
+.section7-area3{
+    background: #D7B399;
+    width: 11%;
+    height: 40px;
+    margin-left: 5%;
+    margin-top: 67px;
+}
+h1{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+::placeholder{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 15px;
+
+    text-align: center;
+    letter-spacing: 0.02em;
+
+    color: #8D8D8D;
+}
 @media (max-width: 1024px) and (min-width: 768px) {
     .section5-area {
         width: 33%;
