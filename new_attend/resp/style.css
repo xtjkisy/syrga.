@@ -1,219 +1,109 @@
-.section-1, .section-4, .section-5, .section-7, .section6-area2 {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-}
-.section-1 {
-    align-items: center;
-    font-size: 12px;
-    justify-content: space-around;
-}
-.content {
-    padding: 2% 6% 0px 6%;
-}
-.inline-block {
-    display: inline-block;
-    margin-left: 45px;
-}
-.section-1 img {
-    width: 80%;
-}
-.section-2{
-    display: flex;
-    flex-direction: row;
-}
-.section2-area1{
-    display: flex;
-    flex-direction: column;
-}
-.one{
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 37px;
-    letter-spacing: 0.02em;
-    color: #000000;
-    width: 120%;
-    height: 28px;
-    margin-top: 170px;
-    margin-left: 7%;
-}
-.two{
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 45px;
-    line-height: 67px;
-    letter-spacing: 0.04em;
-    width: 140%;
-    height: 51px;
-    color: #000000;
-    margin-top: 35px;
-    margin-left: 6%;
-
-}
-.box{
-    background: #D7B399;
-    width: 40%;
-    height: 30px;
-    margin-top: 55px;
-    margin-left: 6.5%;
-}
-.three{
-
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 20px;
-    letter-spacing: 0.03em;
-
-    color: #FFFFFF;
-}
-.foot{
-    margin-left: 70%;
-    margin-top: 138px;
-}
-.burger{
-    display: flex;
-    align-items: flex-end;
-    justify-content: center;
-    margin-top: 130px;
-}
-.section-4{
-    background: #212121;
-    width: 100%;
-    height: 235px;
-    margin-top: 70px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
-.dos{
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 20px;
-    line-height: 37px;
-    text-align: center;
-    letter-spacing: 0.02em;
-    width: 60%;
-    margin-left: 40%;
-    height: 37px;
-    color: #FFFFFF;
-}
-.dos2{
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 300;
-    font-size: 21px;
-    line-height: 26px;
-    text-align: center;
-    width: 60%;
-    margin-left: 40%;
-    height: 37px;
-    color: #FFFFFF;
-}
-.section-4-1 {
-    display: flex;
-    flex-direction: row;
-}
-.section-4-1-area-1{
-    width: 50%;
-    height: 250px;
-    background: #F9F6F1;
-    justify-content: left;
-}
-.section-4-1-area-2{
-    width: 50%;
-    height: 250px;
-    background: #F4F4F4;
-    justify-content: center;
-}
-.sect4-1-1{
-    justify-content: right;
-    display: flex;
-    flex-direction: row;
-    margin-top: 60px;
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 24px;
-    line-height: 29px;
-    letter-spacing: 0.03em;
-
-    color: #000000;
-    height: 22px;
-}
-.man{
-    margin-top: 20px;
-}
-.sect4-1-2{
-    margin-left: 34%;
-    margin-top: 25px;
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 300;
-    font-size: 16px;
-    line-height: 20px;
-
-    color: #000000;
-}
-.sect4-1-3{
-    margin-left: 34%;
-    margin-top: 40px;
-}
-.section5-area {
-    width: 25%;
-    height: 279px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    display: flex;
-    align-items: flex-end;
-}
-.section5-area1 {
-    background-image: url(short.png);
-}
-.section5-area2 {
-    background-image: url(short1.png);
-}
-.section5-area > div {
-    margin-left: 15px;
-    margin-bottom: 15px;
-}
-
-@media (max-width: 1024px) and (min-width: 768px) {
-    .section5-area {
-        width: 33%;
-    }
-}
-
-@media (max-width: 767px){
-    .section-1 {
-        flex-direction: column;
-        align-items: center;
-    }
-    .section-1 > div {
-        margin-bottom: 10px;
-    }
-    .section-1 div span:first-child {
-        margin-left: 0;
-    }
-    .one{
-        width: 20%;
-        font-weight: 200;
-        font-size: 10px;
-        line-height: 27px;
-    }
-    .two{
-        width: 30%;
-        font-weight: 700;
-        font-size: 15px;
-        line-height: 27px;
-    }
-    .section5-area {
-        width: 50%;
-    }
-}
-
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>respon</title>
+  <link rel="stylesheet" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ </head>
+ <body>
+	<div class="content">
+		<section class="section-1">
+			<div class="section1-area1">
+				<span class="inline-block">Для мужчин</span>
+				<span class="inline-block">Для женщин</span>
+				<span class="inline-block">Для детей</span>
+			</div>
+			<div class="section1-area2">
+				<img src="logo.png" alt="">
+			</div>
+			<div class="section1-area3">
+				<span class="inline-block">Оплата</span>
+				<span class="inline-block">Доставка</span>
+			</div>
+			<div class="section1-area4">
+				<img src="first-screen__basket.png" alt="">
+			</div>
+		</section>
+		<section class="section-2">
+			<div class="section2-area1">
+                <span class="one">Зимняя распродажа</span>
+                <span class="two">СКИДКИ ДО 90%</span>
+                <div class="box">
+                    <span class="three">СМОТРЕТЬ МОДЕЛИ</span>
+                </div>
+            </div>
+			<div class="section2-area2">
+                <div class="foot"><img src="first-screen__image.png" alt=""></div>
+            </div>
+		</section>
+		<section class="section-3">
+            <div class="burger">
+                <img src="bureger.png" alt="">
+            </div>
+		</section>
+    </div>
+    <section class="section-4">
+        <div class="section4-area1">
+            <span class="dos">БЕСПЛАТНАЯ ДОСТАВКА ОТ 3000₽</span>
+        </div>
+        <div class="section4-area2">
+            <span class="dos2">Сделайте заказ и получите подарок!</span>
+        </div>
+    </section>
+    
+        <section class="section-4-1">
+            <div class="section-4-1-area-1">
+                <div class="sect4-1-1">МУЖСКАЯ КОЛЛЕКЦИЯ <div class="man"><img src="man.png" alt=""></div></div>
+                <div class="sect4-1-2">Обувь, полуверы, костюмы </div>
+                <div class="sect4-1-3"><img src="Group 2.png" alt=""></div>
+            </div>
+            <div class="section-4-1-area-2">
+                <div class="sect4-2-1">ЖЕНСКАЯ КОЛЛЕКЦИЯ <div class="man"><img src="woman.png" alt=""></div></div>
+                <div class="sect4-2-2">Обувь, полуверы, костюмы</div>
+                <div class="sect4-2-3"><img src="Group 2.png" alt=""></div>
+            </div>
+            
+        </section>
+        <div class="content">
+		<section class="section-5">
+			<div class="section5-area section5-area1"><div>Платья</div></div>
+			<div class="section5-area section5-area2"><div>Платья</div></div>
+			<div class="section5-area section5-area1"><div>Платья</div></div>
+			<div class="section5-area section5-area2"><div>Платья</div></div>
+			<div class="section5-area section5-area2"><div>Платья</div></div>
+			<div class="section5-area section5-area1"><div>Платья</div></div>
+			<div class="section5-area section5-area2"><div>Платья</div></div>
+			<div class="section5-area section5-area1"><div>Платья</div></div>
+		</section>
+		<section class="section-6">
+			<div class="section6-area1">Новые модели</div>
+			<div class="section6-area2">
+				<div class="section6-area2-1">
+                    <img src="women.png" alt="">
+                    <div class="dress">Коктейльное платье</div>
+                    <div class="dress1">₽ 40 000</div>
+            </div>
+				<div class="section6-area2-2">
+                    <img src="women.png" alt="">
+                    <div class="dress">Коктейльное платье</div><div class="dress1">₽ 40 000</div>
+                </div>
+				<div class="section6-area2-3">
+                    <img src="women.png" alt="">
+                    <div class="dress">Коктейльное платье</div><div class="dress1">₽ 40 000</div>
+                </div>
+				<div class="section6-area2-4">
+                    <img src="women.png" alt="">
+                    <div class="dress">Коктейльное платье</div><div class="dress1">₽ 40 000</div>
+                </div>
+			</div>
+			<div class="section6-area3"><img src="news-item__button.png" alt=""></div>
+		</section>
+		<section class="section-7">
+			<div class="section7-area1"></div>
+			<div class="section7-area2"></div>
+			<div class="section7-area3"></div>
+		</section>
+	</div>
+ </body>
+</html>
