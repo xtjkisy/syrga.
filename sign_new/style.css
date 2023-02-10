@@ -1,0 +1,103 @@
+body{
+    background-color: #292E5B;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    white-space: nowrap;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 60px;
+    text-align: center;
+    width: 400px;
+    height: 45px;
+    color: #FFFFFF;
+    margin-left: 32%;
+    margin-top: 70px;
+    
+}
+.login {
+
+    justify-content: center;
+    width: 499px;
+    height: 454px;
+    background: rgba(255, 255, 255, 0.69);
+    opacity: 0.8;
+    border-radius: 15px;
+    margin-left: 30%;
+    margin-top: 200px;
+
+}
+.login1{
+    justify-content: center;
+    width: 499px;
+    height: 700px;
+    background: rgba(255, 255, 255, 0.69);
+    opacity: 0.8;
+    border-radius: 15px;
+    margin-left: 30%;
+    margin-top: 200px;
+}
+.form {
+    text-align: center;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 60px;
+}
+
+input {
+    width: 374px;
+    height: 77px;
+    margin-left: 10px;
+    padding: 80px;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 12px;
+    box-sizing: border-box;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+a {
+    width: 55px;
+    height: 22px;
+    margin-left: 80%;
+    margin-top: 20px;
+    justify-content: space-between;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    white-space: nowrap;
+
+
+    color: #292E5B;
+}
+button[type=submit] {
+    width: 270px;
+    height: 61px;
+    background: #292E5B;
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 120px;
+}
+button[type=submit1] {
+    width: 270px;
+    height: 61px;
+    background: #292E5B;
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 40px;
+    margin-top: 8%;
+}
+@media screen and (max-width: 700px) {
+    .login{
+        justify-content: center;
+        margin-left: 10px;
+    }
+}
